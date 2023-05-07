@@ -14,3 +14,8 @@
 ## Hello, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 I am **Shalom Gad**, a **Software Engineer** with ecstatic interest in ***advanced software security***. Please tell me, what do you think could be more fulfilling than proffering solutions to demanding security challenges!?
 <br><br>
+
+## 📫 Contact Me
+
+[![Email](https://img.shields.io/badge/Email-shalomgad%40proton.me-blue)](mailto:shalomgad@proton.me) &emsp;&emsp;&emsp;
+[![Twitter](https://img.shields.io/badge/Let's%20Connect%20On%20Twitter-%40Shalom__Gad-blue)](https://twitter.com/Shalom_Gad) &emsp;
