@@ -1,6 +1,6 @@
 # Shalom Gad (@gadcode)
 
-| [![Shalom Gad](https://img.shields.io/badge/Shalom%20Gad-gadcode-blue)](#) | [![Followers](https://img.shields.io/github/followers/gadcode)](#) | [![Stars](https://img.shields.io/github/stars/gadcode?label=Profile%20Stars&logo=Profile%20stars&logoColor=b)](#) | [![wakatime](https://wakatime.com/badge/user/8f392287-e8cb-49ba-85a9-df23ee3802a0.svg)](https://wakatime.com/@8f392287-e8cb-49ba-85a9-df23ee3802a0) | ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=gadcode.gadcode&left_color=red&right_color=green&left_text=My%20Page%20Visitors) |
+| [![Shalom Gad](https://img.shields.io/badge/Shalom%20Gad-gadcode-blue)](#) | [![Followers](https://img.shields.io/github/followers/gadcode)](#) | [![Stars](https://img.shields.io/github/stars/gadcode?label=Profile%20Stars&logo=Profile%20stars&logoColor=b)](#) | [![wakatime](https://wakatime.com/badge/user/8f392287-e8cb-49ba-85a9-df23ee3802a0.svg)](https://wakatime.com/@8f392287-e8cb-49ba-85a9-df23ee3802a0) | ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=gadcode.gadcode&left_color=red&right_color=green&left_text=Page%20Visitors) |
 --| --| --| --| --|
 <br>
 
@@ -36,13 +36,13 @@ Do you have a few seconds to spare? Please help me with the answer to this quest
         <img
             src="https://github-readme-stats.vercel.app/api?username=gadcode&count_private=true&show_icons=true&theme=radical&env=PAT_1"
             alt="Shalom Gad: @gadcode GitHub Statistics"
-        />
+        >
     </a>
     <a href="https://github.com/gadcode/github-readme-stats">
         <img
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=gadcode&layout=compact&theme=radical&env=PAT_1"
             alt="Shalom Gad: @gadcode Top Languages"
-        />
+        >
     </a>
 </div>
 
@@ -54,3 +54,15 @@ Do you have a few seconds to spare? Please help me with the answer to this quest
 ### Repo's WakaTime Badge
 
 [![wakatime](https://wakatime.com/badge/user/8f392287-e8cb-49ba-85a9-df23ee3802a0/project/08872963-5c9e-4f03-93db-5e02e81fddf1.svg)](https://wakatime.com/badge/user/8f392287-e8cb-49ba-85a9-df23ee3802a0/project/08872963-5c9e-4f03-93db-5e02e81fddf1)
+<br>
+
+---------------------------------
+
+<p align="right">
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" 
+         width="50"
+    >
+    <img src="https://komarev.com/ghpvc/?username=gadcode&label=Profile%20views&color=0e75b6&style=flat" 
+         alt="@gadcode GitHub Page Visitors"
+    >
+</p>
