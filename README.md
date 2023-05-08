@@ -1,6 +1,6 @@
 # Shalom Gad (@gadcode)
 
-| [![Shalom Gad](https://img.shields.io/badge/Shalom%20Gad-gadcode-blue)](#) | [![Followers](https://img.shields.io/github/followers/gadcode)](#) | [![Stars](https://img.shields.io/github/stars/gadcode?label=Profile%20Stars&logo=Profile%20stars&logoColor=b)](#) | [![wakatime](https://wakatime.com/badge/user/8f392287-e8cb-49ba-85a9-df23ee3802a0.svg)](https://wakatime.com/@8f392287-e8cb-49ba-85a9-df23ee3802a0) | ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=gadcode.gadcode&left_color=red&right_color=green&left_text=Page%20Visitors) |
+| [![Shalom Gad](https://img.shields.io/badge/Shalom%20Gad-%40gadcode-blue)](#) | [![Followers](https://img.shields.io/github/followers/gadcode)](#) | [![Stars](https://img.shields.io/github/stars/gadcode?label=Profile%20Stars&logo=Profile%20stars&logoColor=b)](#) | [![wakatime](https://wakatime.com/badge/user/8f392287-e8cb-49ba-85a9-df23ee3802a0.svg)](https://wakatime.com/@8f392287-e8cb-49ba-85a9-df23ee3802a0) | ![](https://komarev.com/ghpvc/?username=gadcode&color=green&label=Profile+Views) |
 --| --| --| --| --|
 <br>
 
