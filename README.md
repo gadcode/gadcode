@@ -14,7 +14,7 @@
 
 ## Hello, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-My name is **Shalom Gad**, a distinguished **Software Engineer** with ecstatic interest in ***advanced software security***.
+My name is **Shalom Gad**, a distinguished **Principal Software Engineer** with ecstatic interest in ***accessibility***, ***information security***, and ***machine learning***.
 
 Do you have a few seconds to spare? Please help me with the answer to this question: *What do you think could be more fulfilling than proffering solutions to the demanding information security challenges!?*
 <br><br>
