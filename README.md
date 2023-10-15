@@ -22,6 +22,21 @@ Do you have a few seconds to spare? Please help me with the answer to this quest
 
 -----------------
 
+## Enviable Certifications/Badges Awarded
+| Certificate/Badge                 | Issuing Organization              |
+|-----------------------------------|-----------------------------------|
+| ***[Security Principles](https://drive.proton.me/urls/6G7A5A6PGR#Ctr14kbw8mej)*** | (ISC)² |
+| ***[Business Continuity (BC), Disaster Recovery (DR), and Incidence Response Concepts](https://drive.proton.me/urls/Q2WTBVZFMW#6zkPmhRtD7a4)*** | (ISC)² |
+| ***[Access Control Concepts](https://drive.proton.me/urls/VP79H06CF8#wENNWh734jd5)*** | (ISC)² |
+| ***[Network Security](https://drive.proton.me/urls/Q546HYNB2M#iUAcqKR13Ku6)*** | (ISC)² |
+| ***[Security Operations](https://drive.proton.me/urls/PYH6HRYTT0#is0SjSumgoJW)*** | (ISC)² |
+| **[Official Certified in Cybersecurity Course Completion]()** | (ISC)² |
+|           |           |
+| ***[Foundations of Cybersecurity](https://drive.proton.me/urls/ME857CFRK4#X8NGAW2Inzdu)*** | Google |
+| ***[Play It Safe: Manage Security Risks](https://drive.proton.me/urls/MYZRCVES7R#ueJa86PnKS9Z)***| Google |
+| ***[Connect and Protect: Networks and Network Security](https://drive.proton.me/urls/D1K0VH3448#wMC6JVHRFZsy)***| Google |
+|       |          |
+
 ## 📫 Contact Me
 
 [![Email](https://img.shields.io/badge/Email-shalomgad%40proton.me-blue)](mailto:shalomgad@proton.me) &emsp;&emsp;&emsp;&emsp;
@@ -30,7 +45,7 @@ Do you have a few seconds to spare? Please help me with the answer to this quest
 
 ------------------------
 
-## GitHub Stats
+## GitHub Statistics
 
 <div>
     <a href="https://github.com/gadcode/github-readme-stats">
