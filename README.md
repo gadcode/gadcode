@@ -30,7 +30,7 @@ Do you have a few seconds to spare? Please help me with the answer to this quest
 | ***[Access Control Concepts](https://drive.proton.me/urls/VP79H06CF8#wENNWh734jd5)*** | (ISC)² |
 | ***[Network Security](https://drive.proton.me/urls/Q546HYNB2M#iUAcqKR13Ku6)*** | (ISC)² |
 | ***[Security Operations](https://drive.proton.me/urls/PYH6HRYTT0#is0SjSumgoJW)*** | (ISC)² |
-| **[Official Certified in Cybersecurity Course Completion]()** | (ISC)² |
+| **[Official Certified in Cybersecurity Course Completion](https://drive.proton.me/urls/PQN3XVBF0M#2vh6cpkBbSni)** | (ISC)² |
 |           |           |
 | ***[Foundations of Cybersecurity](https://drive.proton.me/urls/ME857CFRK4#X8NGAW2Inzdu)*** | Google |
 | ***[Play It Safe: Manage Security Risks](https://drive.proton.me/urls/MYZRCVES7R#ueJa86PnKS9Z)***| Google |
