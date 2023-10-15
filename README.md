@@ -1,4 +1,4 @@
-# Distinguished Security Engineer
+# Distinguished Security Engineer 🛡️
 
 | [![Shalom Gad](https://img.shields.io/badge/Shalom%20Gad-%40gadcode-blue)](#) | [![Followers](https://img.shields.io/github/followers/gadcode)](#) | [![Stars](https://img.shields.io/github/stars/gadcode?label=Profile%20Stars&logo=Profile%20stars&logoColor=b)](#) | [![wakatime](https://wakatime.com/badge/user/8f392287-e8cb-49ba-85a9-df23ee3802a0.svg)](https://wakatime.com/@8f392287-e8cb-49ba-85a9-df23ee3802a0) | ![](https://komarev.com/ghpvc/?username=gadcode&color=green&label=Profile+Views) |
 --| --| --| --| --|
@@ -15,12 +15,63 @@
 
 ## Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-I am **Shalom Gad**, a passionate **Security Engineer** with ecstatic interest in ***Identity and Access Management (IAM)***, ***Software Security***, ***Cloud and Network Security***.
+Welcome to my GitHub profile! I'm a seasoned Distinguished Security Engineer with a passion for protecting organizations and ensuring a secure digital landscape. My expertise encompasses a wide array of security domains, and I'm committed to delivering robust solutions that fortify businesses against cyber threats. Below is an overview of my key skills, knowledge, and the value I bring to organizations.
 
-Do you have a few seconds to spare? Please help me with the answer to this question: *What do you think could be more fulfilling than proffering solutions to a demanding information security challenges?!*
-<br>
+-------------
 
------------------
+## 🔑 Key Skills
+
+**Threat Detection & Response: 🚀**
+Expert at detecting and swiftly responding to evolving cyber threats, minimizing potential damage.
+
+**Penetration Testing & Vulnerability Assessment: 🛡️**
+Proficient in identifying vulnerabilities and providing actionable recommendations to enhance security posture.
+
+**Incident Handling & Forensics: 🔍**
+Skilled in incident response and forensics to analyze security incidents, identify root causes, and implement proactive measures.
+
+**Security Architecture Design: 🏗️**
+Extensive experience in designing robust security architectures that align with business objectives while ensuring data protection.
+
+**Compliance & Risk Management: ⚖️**
+Adept at navigating complex regulatory landscapes, ensuring compliance, and effectively managing risks.
+
+**Security Awareness & Training: 🎓**
+Passionate about educating and empowering teams to be the first line of defense against cyber threats.
+
+## 🧠 Knowledge Highlights
+
+**Cryptography & Encryption: 🔐**
+In-depth knowledge of cryptographic algorithms, key management, and encryption techniques to safeguard sensitive data.
+
+**Cloud Security: ☁️**
+Proficient in securing cloud environments, including AWS, Azure, and GCP, understanding shared responsibility models.
+
+**IoT Security: 🌐**
+Understanding of the unique challenges posed by the Internet of Things (IoT) and implementing security measures for IoT devices.
+
+**Mobile Security: 📱**
+Expertise in mobile app security, securing both iOS and Android platforms, including secure coding practices.
+
+**Network Security: 🌐**
+Proficient in securing networks, including firewalls, IDS/IPS, and network segmentation.
+
+## 💼 Value to Organizations
+
+**Security Strategy & Leadership: 🚀**
+Provide strategic direction, leadership, and guidance in developing and executing comprehensive security strategies.
+
+**Cost-Effective Solutions: 💰**
+Deliver solutions that optimize security investments, ensuring the best value while meeting organizational security objectives.
+
+**Incident Mitigation & Recovery: 🛠️**
+Minimize impact by swiftly addressing incidents, reducing downtime, and facilitating a quick recovery, minimizing potential damage.
+
+**Cross-Functional Collaboration: 🤝**
+Foster collaboration between various teams to integrate security seamlessly into the development and operational lifecycles.
+
+**Continuous Improvement: 🔄**
+Drive continuous improvement by staying updated with the latest security trends, technologies, and best practices, enhancing the overall security posture.
 
 ## Enviable Certifications/Badges Awarded
 | Certificate/Badge                 | Issuing Organization              |
@@ -63,16 +114,10 @@ Do you have a few seconds to spare? Please help me with the answer to this quest
 </div>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=gadcode&theme=radical&env=PAT_1)](https://git.io/streak-stats)
-<br>
-
-------------------------
 
 ### Repo's WakaTime Badge
 
 [![wakatime](https://wakatime.com/badge/user/8f392287-e8cb-49ba-85a9-df23ee3802a0/project/08872963-5c9e-4f03-93db-5e02e81fddf1.svg)](https://wakatime.com/badge/user/8f392287-e8cb-49ba-85a9-df23ee3802a0/project/08872963-5c9e-4f03-93db-5e02e81fddf1)
-<br>
-
----------------------------------
 
 <p align="right">
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"
