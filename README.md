@@ -4,8 +4,14 @@
 --| --| --| --| --|
 
 <br>
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/RDZo7znAdn2u7sAcWH" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/SandiaLabs-cyber-security-cybersecurity-RDZo7znAdn2u7sAcWH">via GIPHY</a></p>
+<div align="center">
+    <img
+        src="./security_engineer.gif"
+        alt="Distinguished Security Engineer"
+    >
+</div>
 <br>
+
 
 ## Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
