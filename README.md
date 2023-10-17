@@ -1,4 +1,4 @@
-**# Distinguished Security Engineer 🛡️**
+# **Distinguished Security Engineer 🛡️**
 
 | [![Shalom Gad](https://img.shields.io/badge/Shalom%20Gad-%40gadcode-blue)](#) | [![Followers](https://img.shields.io/github/followers/gadcode)](#) | [![Stars](https://img.shields.io/github/stars/gadcode?label=Profile%20Stars&logo=Profile%20stars&logoColor=b)](#) | [![wakatime](https://wakatime.com/badge/user/8f392287-e8cb-49ba-85a9-df23ee3802a0.svg)](https://wakatime.com/@8f392287-e8cb-49ba-85a9-df23ee3802a0) | ![](https://komarev.com/ghpvc/?username=gadcode&color=green&label=Profile+Views) |
 --| --| --| --| --|
@@ -13,12 +13,12 @@
 <br>
 
 
-**## Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)**
+## **Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)**
 
 Welcome to my GitHub profile! I'm a seasoned Distinguished Security Engineer with a passion for protecting organizations and ensuring a secure digital landscape. My expertise encompasses a wide array of security domains, and I'm committed to delivering robust solutions that fortify businesses against cyber threats. Below is an overview of my key skills, knowledge, and the value I bring to organizations.
 <br>
 
-**## 🔑 Key Skills**
+## **🔑 Key Skills**
 
 **Threat Detection & Response: 🚀**
 Expert at detecting and swiftly responding to evolving cyber threats, minimizing potential damage.
@@ -39,7 +39,7 @@ Adept at navigating complex regulatory landscapes, ensuring compliance, and effe
 Passionate about educating and empowering teams to be the first line of defense against cyber threats.
 <br>
 
-**## 🧠 Knowledge Highlights**
+## **🧠 Knowledge Highlights**
 
 **Cryptography & Encryption: 🔐**
 In-depth knowledge of cryptographic algorithms, key management, and encryption techniques to safeguard sensitive data.
@@ -57,7 +57,7 @@ Expertise in mobile app security, securing both iOS and Android platforms, inclu
 Proficient in securing networks, including firewalls, IDS/IPS, and network segmentation.
 <br>
 
-**## 💼 Value to Organizations**
+## **💼 Value to Organizations**
 
 **Security Strategy & Leadership: 🚀**
 Provide strategic direction, leadership, and guidance in developing and executing comprehensive security strategies.
@@ -75,7 +75,7 @@ Foster collaboration between various teams to integrate security seamlessly into
 Drive continuous improvement by staying updated with the latest security trends, technologies, and best practices, enhancing the overall security posture.
 <br>
 
-**## Enviable Certifications / Badges Awarded**
+## **Enviable Certifications / Badges Awarded**
 | Certificate / Badge                 | Issuing Organization              |
 |-----------------------------------|-----------------------------------|
 | ***[Security Principles](https://drive.proton.me/urls/6G7A5A6PGR#Ctr14kbw8mej)*** | (ISC)² |
@@ -91,13 +91,13 @@ Drive continuous improvement by staying updated with the latest security trends,
 |       |          |
 <br>
 
-**## 📫 Contact Me**
+## **📫 Contact Me**
 
 [![Email](https://img.shields.io/badge/Email-shalomgad%40proton.me-blue)](mailto:shalomgad@proton.me) &emsp;&emsp;&emsp;&emsp;
 [![Twitter](https://img.shields.io/badge/Twitter-%40Shalom__Gad-blue)](https://twitter.com/Shalom_Gad) &emsp;
 <br><br>
 
-**## GitHub Statistics**
+## **GitHub Statistics**
 
 <div>
     <a href="https://github.com/gadcode/github-readme-stats">
@@ -116,7 +116,7 @@ Drive continuous improvement by staying updated with the latest security trends,
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=gadcode&theme=radical&env=PAT_1)](https://git.io/streak-stats)
 
-**### Repo's WakaTime Badge**
+### **Repo's WakaTime Badge**
 
 [![wakatime](https://wakatime.com/badge/user/8f392287-e8cb-49ba-85a9-df23ee3802a0/project/08872963-5c9e-4f03-93db-5e02e81fddf1.svg)](https://wakatime.com/badge/user/8f392287-e8cb-49ba-85a9-df23ee3802a0/project/08872963-5c9e-4f03-93db-5e02e81fddf1)
 
