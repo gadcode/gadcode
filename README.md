@@ -75,8 +75,8 @@ Foster collaboration between various teams to integrate security seamlessly into
 Drive continuous improvement by staying updated with the latest security trends, technologies, and best practices, enhancing the overall security posture.
 <br>
 
-## **Enviable Certifications / Badges Awarded**
-| Certificate / Badge                 | Issuing Organization              |
+## **Enviable Certifications/Badges Awarded**
+| Certificate/Badge                 | Issuing Organization              |
 |-----------------------------------|-----------------------------------|
 | ***[Security Principles](https://drive.proton.me/urls/6G7A5A6PGR#Ctr14kbw8mej)*** | (ISC)² |
 | ***[Business Continuity (BC), Disaster Recovery (DR), and Incidence Response Concepts](https://drive.proton.me/urls/Q2WTBVZFMW#6zkPmhRtD7a4)*** | (ISC)² |
@@ -99,7 +99,7 @@ Drive continuous improvement by staying updated with the latest security trends,
 [![Twitter](https://img.shields.io/badge/Twitter-%40Shalom__Gad-blue)](https://twitter.com/Shalom_Gad) &emsp;
 <br><br>
 
-## **GitHub Statistics**
+## **GitHub Stats**
 
 <div>
     <a href="https://github.com/gadcode/github-readme-stats">
@@ -118,7 +118,7 @@ Drive continuous improvement by staying updated with the latest security trends,
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=gadcode&theme=radical&env=PAT_1)](https://git.io/streak-stats)
 
-### **Repo's WakaTime Badge**
+### **WakaTime Badge of this Repo**
 
 [![wakatime](https://wakatime.com/badge/user/8f392287-e8cb-49ba-85a9-df23ee3802a0/project/08872963-5c9e-4f03-93db-5e02e81fddf1.svg)](https://wakatime.com/badge/user/8f392287-e8cb-49ba-85a9-df23ee3802a0/project/08872963-5c9e-4f03-93db-5e02e81fddf1)
 
@@ -126,7 +126,7 @@ Drive continuous improvement by staying updated with the latest security trends,
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"
          width="50"
     >
-    <img src="https://komarev.com/ghpvc/?username=gadcode&label=Profile%20views&color=0e75b6&style=flat" 
+    <img src="https://komarev.com/ghpvc/?username=gadcode&label=Profile%20views&color=0e75b6&style=flat"
          alt="@gadcode GitHub Page Visitors"
     >
 </p>
