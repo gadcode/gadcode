@@ -89,6 +89,7 @@ Drive continuous improvement by staying updated with the latest security trends,
 | ***[Play It Safe: Manage Security Risks](https://drive.proton.me/urls/MYZRCVES7R#ueJa86PnKS9Z)***| Google |
 | ***[Connect and Protect: Networks and Network Security](https://drive.proton.me/urls/D1K0VH3448#wMC6JVHRFZsy)***| Google |
 | ***[Tools of the Trade: Linux and SQL](https://drive.proton.me/urls/7WG4TMT594#yOTMIRARhVgx)*** | Google |
+| ***[Assets, Threats, and Vulnerabilities](https://drive.proton.me/urls/ZFQFZF71Q8#B4JgwmHwZt6f)*** | Google |
 |       |          |
 <br>
 
