@@ -98,8 +98,8 @@ def create_cv():
     for interest in community_interests:
         doc.add_paragraph(interest)
 
-    # Saves rhe document
-    doc.save('distinguished_security_engineer.docx')
+    # Saves the document
+    doc.save('security_engineer.docx')
 
 if __name__ == "__main__":
     create_cv()
