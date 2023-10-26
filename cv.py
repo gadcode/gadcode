@@ -99,9 +99,9 @@ def create_cv():
     for interest in community_interests:
         doc.add_paragraph(interest)
 
-    # Saves the document and converts it to PDF
-    doc.save('security_engineer.docx')
+    # Saves the document
+    doc.save('cyber_security_engineer.docx')
 
 if __name__ == "__main__":
     create_cv()
-    print("CV successfully created! security_engineer.docx is ready!")
+    print("CV successfully created! cyber_security_engineer.docx is ready!")
