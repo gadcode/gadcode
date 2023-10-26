@@ -1,4 +1,4 @@
-# **Distinguished Security Engineer 🛡️🐧**
+# **Cyber Security Engineer 🛡️🐧**
 
 | [![Shalom Gad](https://img.shields.io/badge/Shalom%20Gad-%40gadcode-blue)](#) | [![Followers](https://img.shields.io/github/followers/gadcode)](#) | [![Stars](https://img.shields.io/github/stars/gadcode?label=Profile%20Stars&logo=Profile%20stars&logoColor=b)](#) | [![wakatime](https://wakatime.com/badge/user/8f392287-e8cb-49ba-85a9-df23ee3802a0.svg)](https://wakatime.com/@8f392287-e8cb-49ba-85a9-df23ee3802a0) | ![](https://komarev.com/ghpvc/?username=gadcode&color=green&label=Profile+Views) |
 --| --| --| --| --|
@@ -7,7 +7,7 @@
 <div align="center">
     <img
         src="./security_engineer.gif"
-        alt="Distinguished Security Engineer"
+        alt="Cyber Security Engineer"
     >
 </div>
 <br>
@@ -15,7 +15,7 @@
 
 Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-Welcome to my GitHub profile! I'm a seasoned Distinguished Security Engineer with a passion for protecting organizations and ensuring a secure digital landscape. My expertise encompasses a wide array of security domains, and I'm committed to delivering robust solutions that fortify businesses against cyber threats. Below is an overview of my key skills, knowledge, and the value I bring to organizations.
+Welcome to my GitHub profile! I'm a seasoned Cyber Security Engineer with a passion for protecting organizations and ensuring a secure digital landscape. My expertise encompasses a wide array of security domains, and I'm committed to delivering robust solutions that fortify businesses against cyber threats. Below is an overview of my key skills, knowledge, and the value I bring to organizations.
 <br>
 
 ## **🔑 Key Skills**
