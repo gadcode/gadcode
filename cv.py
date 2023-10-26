@@ -7,6 +7,7 @@
 # -----------------------------------------------------------------------------
 
 from docx import Document
+from docx2pdf import convert
 
 
 def create_cv():
@@ -98,9 +99,9 @@ def create_cv():
     for interest in community_interests:
         doc.add_paragraph(interest)
 
-    # Saves the document
+    # Saves the document and converts it to PDF
     doc.save('security_engineer.docx')
 
 if __name__ == "__main__":
     create_cv()
-    print("CV successfully created as distinguished_security_engineer.docx")
+    print("CV successfully created! security_engineer.docx is ready!")
