@@ -16,14 +16,13 @@ def create_cv():
 
     # Adds name and contact information
     doc.add_heading('SHALOM GAD', level=1)
-    doc.add_paragraph(f'🌐 Website: [https://ewaesaa.com]')
     doc.add_paragraph(f'📦 GitHub: [https://github.com/gadcode]')
     doc.add_paragraph(f'📧 E-mail: [shalomgad@proton.me]')
     doc.add_paragraph(f'📜 Certificates: [https://drive.proton.me/urls/96MD0BJ03R#wu0zvy0FCTmx]')
-    doc.add_paragraph('📍 Address: 7 Ozara Main Street, Lagos, Nigeria')
+    doc.add_paragraph('📍 Address: 1 Ameeke Main Street, Enugu, Biafra')
 
     # Adds introduction
-    doc.add_heading('DISTINGUISHED SECURITY ENGINEER', level=2)
+    doc.add_heading('CYBER SECURITY ENGINEER', level=2)
     doc.add_paragraph(
         "Threat Modeling | Cloud Computing | Security Hardening | Incident Detection and Response | Malware Prevention | Computer Forensics\n"
         "An exceptionally motivated cybersecurity professional with a strong foundation in software development "
@@ -40,7 +39,8 @@ def create_cv():
         "Incident Response & Forensics",
         "Network & Cloud Security",
         "Vulnerability Assessment",
-        "Security Awareness & Training"
+        "Security Awareness & Training",
+        "InfoSec, IDS, IPS, NSM, SIEM, and SOAR tools"
     ]
     for skill in skills:
         doc.add_paragraph(f"- {skill}")
