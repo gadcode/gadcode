@@ -90,6 +90,7 @@ Drive continuous improvement by staying updated with the latest security trends,
 | ***[Connect and Protect: Networks and Network Security](https://drive.proton.me/urls/D1K0VH3448#wMC6JVHRFZsy)***| Google |
 | ***[Tools of the Trade: Linux and SQL](https://drive.proton.me/urls/7WG4TMT594#yOTMIRARhVgx)*** | Google |
 | ***[Assets, Threats, and Vulnerabilities](https://drive.proton.me/urls/ZFQFZF71Q8#B4JgwmHwZt6f)*** | Google |
+| ***[Sound the Alarm: Detection and Response](https://drive.proton.me/urls/G40YK304JC#rb7rl3KCePwm)*** | Google |
 |       |          |
 <br>
 
