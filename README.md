@@ -91,6 +91,7 @@ Drive continuous improvement by staying updated with the latest security trends,
 | ***[Tools of the Trade: Linux and SQL](https://drive.proton.me/urls/7WG4TMT594#yOTMIRARhVgx)*** | Google |
 | ***[Assets, Threats, and Vulnerabilities](https://drive.proton.me/urls/ZFQFZF71Q8#B4JgwmHwZt6f)*** | Google |
 | ***[Sound the Alarm: Detection and Response](https://drive.proton.me/urls/G40YK304JC#rb7rl3KCePwm)*** | Google |
+| ***[Automate Cybersecurity Tasks with Python](https://drive.proton.me/urls/VX96CZNGRR#b5YYOUXD095W)*** | Google |
 |       |          |
 <br>
 
