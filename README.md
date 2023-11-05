@@ -94,8 +94,10 @@ Drive continuous improvement by staying updated with the latest security trends,
 | ***[Automate Cybersecurity Tasks with Python](https://drive.proton.me/urls/VX96CZNGRR#b5YYOUXD095W)*** | Google |
 | ***[Put It to Work: Prepare for Cybersecurity Jobs](https://drive.proton.me/urls/84DG8AHXBC#ng4QTvRYGtbi)*** | Google |
 |           |               |
-|***[Enterprise Design Thinking Practitioner](https://www.credly.com/badges/6ff4daa7-6834-4c1a-9ae7-ed6e69e3c130/public_url)***| IBM |
-|       |          |
+| ***[Enterprise Design Thinking Practitioner](https://www.credly.com/badges/6ff4daa7-6834-4c1a-9ae7-ed6e69e3c130/public_url)***| IBM |
+|           |               |
+| ***[Introduction to Cybersecurity](https://www.credly.com/badges/6ef2b312-217d-4653-b307-eb4d480d04f3/public_url)*** | Cisco |
+|           |               |
 <br>
 
 ## **📫 Contact Me**
