@@ -93,6 +93,8 @@ Drive continuous improvement by staying updated with the latest security trends,
 | ***[Sound the Alarm: Detection and Response](https://drive.proton.me/urls/G40YK304JC#rb7rl3KCePwm)*** | Google |
 | ***[Automate Cybersecurity Tasks with Python](https://drive.proton.me/urls/VX96CZNGRR#b5YYOUXD095W)*** | Google |
 | ***[Put It to Work: Prepare for Cybersecurity Jobs](https://drive.proton.me/urls/84DG8AHXBC#ng4QTvRYGtbi)*** | Google |
+|           |               |
+|***[Enterprise Design Thinking Practitioner](https://www.credly.com/badges/6ff4daa7-6834-4c1a-9ae7-ed6e69e3c130/public_url)***| IBM |
 |       |          |
 <br>
 
