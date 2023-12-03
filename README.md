@@ -137,3 +137,5 @@ Drive continuous improvement by staying updated with the latest security trends,
          alt="@gadcode GitHub Page Visitors"
     >
 </p>
+
+---------------------
